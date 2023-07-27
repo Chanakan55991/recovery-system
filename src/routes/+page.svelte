@@ -1,5 +1,5 @@
 <div class="h-screen bg flex-col flex justify-center items-center">
-	<div class="bg-white backdrop-blur-md box bg-opacity-50 p-4 flex flex-col justify-center items-center h-full w-[60%]">
+	<div class="bg-white backdrop-blur-sm box bg-opacity-50 p-4 flex flex-col justify-center items-center h-full w-[60%]">
 		<span class="mb-8 text-xl">สมัครสมาชิก</span>
 		<div class="flex flex-col">
 			<div class="flex flex-row items-center gap-8">
